@@ -78,10 +78,10 @@ I'm an AI/ML engineer passionate about building **production-grade AI systems** 
 
 I'm always open to discussing AI reliability, MLOps, or potential collaborations. Reach out!
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 [Portfolio](https://your-portfolio-url)
-- 📧 [Email](mailto:your.email@example.com)
-- 🐦 [Twitter/X](https://twitter.com/your-handle)
+- 💼 [LinkedIn]([https://linkedin.com/in/](https://www.linkedin.com/in/ankit-kalluraya/)
+- 🌐 [Portfolio](https:(https://ankitkalluraya.is-a.dev/)
+- 📧 [Email](mailto:kallurayaankit@gmail.com)
+- 🐦 [Twitter/X](https://twitter.com/uhnkitcalorieya)
 
 ---
 
