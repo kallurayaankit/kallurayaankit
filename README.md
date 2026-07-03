@@ -23,7 +23,7 @@ I'm an AI/ML engineer passionate about building **production-grade AI systems** 
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[omniserve](https://github.com/kallurayaankit/omniserve)** | Unified AI Engineer Portfolio System — End-to-end AI Quality Operations platform with 5 automated pillars (data, accuracy, security, performance, observability), QA-as-a-Service API, and CI/CD. | Python, FastAPI, Docker, Cloud |
+| **[AI Quality Ops](https://github.com/kallurayaankit/omniserve)** | End-to-end AI Quality Operations platform with 5 automated pillars (data, accuracy, security, performance, observability), QA-as-a-Service API, and CI/CD. | Python, FastAPI, Docker, Cloud |
 | **[synapse](https://github.com/kallurayaankit/synapse)** | Autonomous AI agent with LangGraph, tools (web search, SQL, calculator), memory, and guardrails. | Python, LangGraph, LangChain |
 | **[model-hub](https://github.com/kallurayaankit/model-hub)** | Real-time multi-modal content moderation API (text + image) with async inference and explainability. | Python, FastAPI, PyTorch, Transformers |
 | **[fraud-detection](https://github.com/kallurayaankit/fraud-detection)** | Real-time fraud detection API with drift monitoring (FastAPI, Kafka, Evidently, Prometheus). | Python, FastAPI, Kafka, Evidently, Prometheus |
