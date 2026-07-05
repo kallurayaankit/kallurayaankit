@@ -3,8 +3,8 @@
 **Making AI reliable through testing, observability, and clean MLOps.**
 
 [![GitHub followers](https://img.shields.io/github/followers/kallurayaankit?style=social)](https://github.com/kallurayaankit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat&logo=vercel)](https://your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kallurayaankit)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat&logo=vercel)](https://ankitkalluraya.is-a.dev/)
 
 ---
 
