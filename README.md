@@ -1,6 +1,6 @@
 # 🧠 Ankit Kalluraya
 
-**Making AI reliable through testing, observability, and clean MLOps.**
+**Software QA Engineer & Test Automation Specialist | AI Quality & Applied AI**
 
 [![GitHub followers](https://img.shields.io/github/followers/kallurayaankit?style=social)](https://github.com/kallurayaankit)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ankit-kalluraya/)
@@ -10,16 +10,32 @@
 
 ## 👨‍💻 About Me
 
-I'm an AI/ML engineer passionate about building **production-grade AI systems** that are not just intelligent, but **reliable, testable, and observable**. My work spans the entire lifecycle — from data validation and model training to deployment, monitoring, and continuous evaluation.
+I'm a software QA engineer and test automation specialist building tools for reliable software and AI systems. My background includes functional, regression, and compliance testing at iTech Labs and Gaming Labs International. My public projects explore browser automation, performance testing, LLM evaluation, and standalone AI applications.
 
-- 🧪 **AI Quality & Testing** — Building frameworks to test, evaluate, and validate AI agents and LLM applications.
-- 🔍 **MLOps & Observability** — Designing end-to-end pipelines with monitoring, drift detection, and performance tracking.
-- 🤖 **RAG & Agentic Systems** — Developing retrieval-augmented generation agents and multi-agent evaluation frameworks.
-- ⚙️ **Full-Stack AI** — Creating APIs, CI/CD pipelines, and cloud-ready platforms that bridge research and production.
+- 🧪 **Software testing & QA**: Turning requirements into test cases, investigating defects, and checking behavior beyond the happy path.
+- ⚙️ **Test automation**: Building Python, Playwright, and Pytest frameworks with repeatable runs, reports, and GitHub Actions.
+- 🔍 **AI quality**: Evaluating model outputs, calibrating LLM judges, and testing prompt-injection and jailbreak scenarios.
+- 🤖 **Applied AI**: Building browser agents and AI-assisted testing prototypes with clear scope and reviewable evidence.
 
 ---
 
 ## 🚀 Featured Projects
+
+| Project | What to explore | Tech Stack |
+|---------|-----------------|------------|
+| **[ReleaseRadar](https://github.com/kallurayaankit/release-radar)** | Regression-testing prototype: freeze a test suite, challenge deliberately seeded checkout bugs, and rerun unchanged assertions against the corrected build. Includes exportable evidence and a QA copilot for reviewing supplied requirements and test results. | JavaScript, Playwright, OpenAI, GitHub Actions |
+| **[Playwright Test Automation Framework](https://github.com/kallurayaankit/playwright-framework)** | SauceDemo UI automation with page objects, JSON-driven tests, failure screenshots, parallel execution, and HTML reports. | Python, Playwright, Pytest |
+| **[Assay](https://github.com/kallurayaankit/assay)** | Calibrate an LLM judge against human-labeled examples using Cohen's kappa. The default gate blocks uncalibrated scoring; reports retain calibration provenance and model-call usage. | Python, Ollama, LLM evaluation |
+| **[LLMTestKit](https://github.com/kallurayaankit/llmtestkit)** | Local-model evaluation and red-team tooling with deterministic checks, a correctness judge, prompt-injection and jailbreak cases, and HTML reports. | Python, Ollama, Pytest |
+| **[Jev Flight Agent](https://github.com/kallurayaankit/jev-flight-agent)** | Natural-language flight-search prototype: Jev selects browser operations, a separate model supplies field text, and Playwright executes the actions. Stops at search results, without booking. | Python, Jev / TypeSafe AI, Playwright |
+| **[Locust Performance Suite](https://github.com/kallurayaankit/locust-performance-suite)** | Load testing against a Flask application with automated p95 latency assertions and generated reports. | Python, Locust, Flask, Pytest |
+
+**Start here:** [ReleaseRadar demo](https://releaseradar-lime.vercel.app) · [Workflow and evidence](https://github.com/kallurayaankit/release-radar#challenge-workflow) · [Full portfolio](https://ankitkalluraya.is-a.dev/)
+
+These are portfolio projects and prototypes. ReleaseRadar's live integrations have [documented setup and verification limits](https://github.com/kallurayaankit/release-radar/tree/main/vercel#production-deployment--29-october-2026). Assay and LLMTestKit are early-stage tools; broader RAG and agent evaluation remain roadmap work. Jev Flight Agent runs locally with Chrome and API keys.
+
+<details>
+<summary>More AI, MLOps, and testing projects</summary>
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -31,6 +47,8 @@ I'm an AI/ML engineer passionate about building **production-grade AI systems** 
 | **[ai-agent-validation](https://github.com/kallurayaankit/ai-agent-validation)** | AI Agent Validation Framework — LLM-as-a-Judge with mock MCP, Python/pytest. Cross-checks correctness, sentiment & hallucinations. | Python, Pytest, LLM APIs |
 | **[multi-agent-test-sandbox](https://github.com/kallurayaankit/multi-agent-test-sandbox)** | Multi-agent test sandbox: Doer, Adversary & Judge agents. Evaluates AI responses for security, bias, and correctness under prompt injection attacks. | Python, Pytest, CI/CD |
 | **[pact-contract-testing](https://github.com/kallurayaankit/pact-contract-testing)** | Consumer-driven contract testing using the Pact pattern. | Python, Pact, Flask, Pytest |
+
+</details>
 
 ---
 
@@ -76,10 +94,10 @@ I'm an AI/ML engineer passionate about building **production-grade AI systems** 
 
 ## 📫 Let's Connect
 
-I'm always open to discussing AI reliability, MLOps, or potential collaborations. Reach out!
+I'm always open to discussing software quality, test automation, AI reliability, or potential collaborations. Reach out!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ankit-kalluraya/)
-- 🌐 [Portfolio](https:(https://ankitkalluraya.is-a.dev/ )
+- 🌐 [Portfolio](https://ankitkalluraya.is-a.dev/)
 - 📧 [Email](mailto:kallurayaankit@gmail.com)
 - 🐦 [Twitter/X](https://twitter.com/uhnkitcalorieya)
 
